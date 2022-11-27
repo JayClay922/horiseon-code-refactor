@@ -18,13 +18,13 @@ I was able to succesfully hit all the criteria points stated above.
 - Source code has HTML elements following a logical structure. Misplaced tags have been removed, and all tags have been closed properly.
 - Image and icon elements are now following accessibility standards by the inclusion of 'alt' attributes.
   ```md
-  ![screenshot of alt attribute included in source code](starter/assets/images/Alt-Attributes.png)
+  ![screenshot of alt attribute included in source code](assets/images/Alt-Attributes.png)
   ```
 - Headings are now in sequential order.
 - All links are functional.
 - The title element now conatains a short descriptive title.
   ```md
-  ![Screenshot of title element with short descriptive title](starter/assets/images/Title-Tag.png)
+  ![Screenshot of title element with short descriptive title](assets/images/Title-Tag.png)
   ```
 
 ### Licence
